@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE customers [
+  <!ELEMENT customers (customer+)>
+  <!ELEMENT customer (id, name, email, city)>
+  <!ELEMENT id (#PCDATA)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT email (#PCDATA)>
+  <!ELEMENT city (#PCDATA)>
+]>
+<customers>
+  <customer>
+    <id>101</id>
+    <name>Arun</name>
+    <email>arun@mail.com</email>
+    <city>Chennai</city>
+  </customer>
+</customers>

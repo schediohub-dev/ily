@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<addressbook>
+  <contact>
+    <name>Ravi</name>
+    <phone>9876543210</phone>
+    <city>Chennai</city>
+  </contact>
+  <contact>
+    <name>Priya</name>
+    <phone>9123456780</phone>
+    <city>Madurai</city>
+  </contact>
+</addressbook>

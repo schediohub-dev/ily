@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE customers SYSTEM "customer.dtd">
+<customers>
+  <customer>
+    <id>101</id>
+    <name>Arun</name>
+    <email>arun@mail.com</email>
+    <city>Chennai</city>
+  </customer>
+</customers>

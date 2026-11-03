@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="person.xsl"?>
+<persons>
+  <person><name>Ravi</name><age>25</age><city>Chennai</city></person>
+  <person><name>Priya</name><age>22</age><city>Madurai</city></person>
+</persons>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<customers>
+  <customer>
+    <id>101</id>
+    <name>Arun</name>
+    <email>arun@mail.com</email>
+    <city>Chennai</city>
+  </customer>
+  <customer>
+    <id>102</id>
+    <name>Divya</name>
+    <email>divya@mail.com</email>
+    <city>Coimbatore</city>
+  </customer>
+</customers>

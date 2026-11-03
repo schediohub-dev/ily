@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE books SYSTEM "book.dtd">
+<?xml-stylesheet type="text/xsl" href="book.xsl"?>
+<books>
+  <book>
+    <title>Java Basics</title>
+    <author>James</author>
+    <isbn>978-1111</isbn>
+    <publisher>Pearson</publisher>
+    <edition>3</edition>
+    <price>450</price>
+  </book>
+  <book>
+    <title>Web Design</title>
+    <author>Kumar</author>
+    <isbn>978-2222</isbn>
+    <publisher>McGraw Hill</publisher>
+    <edition>2</edition>
+    <price>350</price>
+  </book>
+</books>
